@@ -1,6 +1,6 @@
 # VBIS-Chapter3-SQL
 
-Ad Soyad: 
+Ad Soyad: Gülşən Xəlilova
 
 Qrup: KOM24B
 
